@@ -75,6 +75,13 @@ body {
   color: #fff;
   padding: 23px 52px;
   border-radius: 61px;
+  cursor: pointer;
+  transition: all 1.3s ease;
+}
+
+.btn-red:hover {
+  background-color: transparent;
+  box-shadow: 5px 5px 10px 1px #f00;
 }
 
 /* common styles */
